@@ -1,6 +1,24 @@
 p {
     text-align: center;
+    size: 40px;
+    color: black;
+    font-style: italic;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 h4 {
-    text-align: right;
+    text-align-last: justify;
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1 {
+    text-align: center;
+    color:cornflowerblue;
+    font-size: 50px;
+}
+img {
+ display: block;
+ margin-top: 0;
+ margin-right: auto;
+ margin-bottom: 0;
+ margin-left: auto;
 }
